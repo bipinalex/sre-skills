@@ -1,0 +1,10 @@
+{
+  "name": "sre-skills",
+  "description": "SRE-focused skill suite covering the full reliability engineering lifecycle: git workflows, shell scripting, CI pipelines, CD pipelines, infrastructure as code, infrastructure management, and observability. Skills are opinionated, tool-specific, and production-tested. Use for defining pipelines, writing automation scripts, managing IaC, designing alerting strategies, or implementing SRE best practices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alexb"
+  },
+  "license": "MIT",
+  "skills": ["./skills"]
+}
